@@ -1,0 +1,5 @@
+PROCESS INFORMATION REPORT
+--------------------------
+Process: chrome
+PID     CPU%    MEM%
+16864 awk -v p chrome    0.0  0.0

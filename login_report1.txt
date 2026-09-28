@@ -1,0 +1,26 @@
+USER LOGIN REPORT
+Current user logged in: herambpatil      console      Sep 22 08:20 
+login time of each user
+herambpatilSep22
+Number of logged-in users        1
+q3.sh Doesn't exist
+herambpatil console                         Tue Sep 22 08:20   still logged in
+reboot time                                Tue Sep 22 08:19
+shutdown time                              Tue Sep 22 07:31
+herambpatil console                         Thu Sep 10 18:25 - 07:31 (11+13:05)
+reboot time                                Thu Sep 10 18:25
+shutdown time                              Thu Sep 10 16:51
+herambpatil console                         Thu Sep 10 14:52 - 16:51  (01:59)
+reboot time                                Thu Sep 10 14:52
+herambpatil console                         Wed Sep  9 21:02 - 04:13  (07:11)
+reboot time                                Wed Sep  9 21:02
+Number of Unique Users Who Logged In
+_mbsetupuser
+herambpatil
+root
+shutdown
+herambpatil console                         Tue Sep 22 08:20   still logged in
+reboot time                                Tue Sep 22 08:19
+shutdown time                              Tue Sep 22 07:31
+herambpatil console                         Thu Sep 10 18:25 - 07:31 (11+13:05)
+reboot time                                Thu Sep 10 18:25

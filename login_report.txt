@@ -1,0 +1,31 @@
+USER LOGIN REPORT
+Currently Logged-in Users:
+herambpatil      console      Aug 19 17:54 
+
+Login Time of Each User:
+herambpatil Aug 19
+
+Number of Logged-in Users:        1
+
+/yo/y.c is not currently logged in.
+
+Last 10 User Logins:
+herambpatil console                         Wed Aug 19 17:54   still logged in
+reboot time                                Wed Aug 19 17:54
+shutdown time                              Wed Aug 19 14:08
+herambpatil console                         Mon Aug 17 15:05 - 14:08 (1+23:02)
+reboot time                                Mon Aug 17 15:05
+shutdown time                              Mon Aug 17 15:01
+herambpatil ttys002                         Sat Aug 15 15:16 - 15:16  (00:00)
+herambpatil ttys002                         Sat Aug 15 10:43 - 10:43  (00:00)
+herambpatil console                         Sat Aug 15 10:24 - 15:01 (2+04:37)
+reboot time                                Sat Aug 15 10:24
+
+Number of Unique Users Who Logged In:        4
+
+Most Recent Logins:
+herambpatil console                         Wed Aug 19 17:54   still logged in
+reboot time                                Wed Aug 19 17:54
+shutdown time                              Wed Aug 19 14:08
+herambpatil console                         Mon Aug 17 15:05 - 14:08 (1+23:02)
+reboot time                                Mon Aug 17 15:05

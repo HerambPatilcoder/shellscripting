@@ -1,0 +1,1 @@
+du -sh "$HOME"/* | sort -rh | head -10
